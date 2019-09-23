@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rent a Car</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rent">Rental Page</string>
+    <string name="description">Car Rental Image</string>
+    <string name="btn">Next Page</string>
+</resources>
